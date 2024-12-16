@@ -10,12 +10,12 @@ This repository provides source code used to generate the data presented in "Eff
 
 - Clone the repository with the command:
 ```
-git clone ....
+git clone https://github.com/BRIN-Q/QCDFT-ML.git
 ```
 
 - Move into the repository directory
 ```
-cd ...
+cd QCDFT-ML
 ```
 
 - Build the virtual environment and directories using BUILD.py. Ensure that you have at least Python 3.11 with pip and venv installed.
